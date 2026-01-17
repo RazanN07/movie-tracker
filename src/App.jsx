@@ -138,7 +138,7 @@ function App() {
 
       <footer className="mt-20 py-10 border-t border-slate-900 text-center">
         <p className="text-slate-600 text-[10px] md:text-xs tracking-widest uppercase">
-          Powered by <span className="text-blue-500 font-bold">TMDB API</span> — 2024 Project
+          Powered by <span className="text-blue-500 font-bold">RAZAN</span> — 2026 Project
         </p>
       </footer>
     </div>
